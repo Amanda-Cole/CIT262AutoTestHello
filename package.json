@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "mocha": "^10.2.0"
+  },
+  "name": "testhelloworldcit262",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "type":"module",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
